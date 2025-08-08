@@ -1,0 +1,12 @@
+// export { default as Input } from './Input';
+export { default as Saludo } from './saludo';
+export { default as Toggle } from './Toggle';
+// export { default as Sidebar } from './Sidebar';
+// export { default as Counter } from './Counter';
+export { default as Despedida } from './despedida';
+// export { default as ShowProps } from './ShowProps';
+// export { default as Dashboard } from './Dashboard';
+// export { default as UsersCRUD } from './UsersCRUD';
+// export { default as OrdersCRUD } from './OrdersCRUD';
+// export { default as DinamicList } from './DinamicList';
+// export { default as ProductsCRUD } from './ProductsCRUD';
